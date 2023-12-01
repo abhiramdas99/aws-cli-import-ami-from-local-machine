@@ -30,7 +30,7 @@ $ aws s3 ls
 - copy the object from local machine to that bucket
 ```git
 MAINPC+abhir@MAINPC MINGW64 ~
-$ aws s3 cp /c/my_desk/kilowott/client_projects/Skillbuilder/ami-0e1662b79e85f27fd.bin s3://abhiramdas99-ami-backup/
+$ aws s3 cp /c/my_desk/kilowott/client_projects/s*******r/ami-0e1662b79e85f27fd.bin s3://abhiramdas99-ami-backup/
 Completed 340.5 MiB/1.4 GiB (9.9 MiB/s) with 1 file(s) remaining
 ```
 - check the object is s3 bucket or not
